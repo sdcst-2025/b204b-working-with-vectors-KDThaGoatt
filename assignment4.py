@@ -1,7 +1,8 @@
 import numpy as np
 
 def rrow(vector,index):
-    pass
+    vectEnd = vector / vector[index]
+    return vectEnd
     # your code goes here
     # divide your vector by the vector element at the position given by the scalar to find the reduced row
 

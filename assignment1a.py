@@ -1,4 +1,2 @@
-print("a" + 'world')
+print(2 + 'world')
 
-import sys
-print(sys.version)
